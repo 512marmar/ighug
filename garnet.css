@@ -1,0 +1,125 @@
+.box {
+    background-color: gray;
+    width: 100px;
+    border: 2px solid black;
+    padding: 24px;
+    margin-bottom: 25px;
+}
+.box1 {
+    background-color: gray;
+    width: 100px;
+    border: 2px solid;
+    position: fixed;
+    padding: 24px;
+    left: 300px;
+    top: 5px;
+    margin-bottom: 25px;
+}
+.box22 {
+    background-color: gray;
+    width: 100px;
+    border: 2px solid;
+    position: relative;
+    padding: 30px ;
+    left: 50px;
+    top: 50px;
+    margin-bottom: 25px;
+ 
+}
+.box2 {
+    background-color: gray;
+    width: 100px;
+    border: 2px solid black;
+    padding: 24px;
+    margin-bottom: 20px;
+}
+ .box3{
+    background-color: gray;
+    width: 100px;
+    border: 2px solid black;
+    padding: 24px;
+    margin-bottom: 20px;
+ }
+ .box4 {
+    background-color: gray;
+    width: 100px;
+    border: 2px solid black;
+    padding: 24px;
+    margin-bottom: 20px;
+ }
+ .box5 {
+    background-color: gray;
+    width: 100px;
+    border: 2px solid black;
+    padding: 24px;
+    margin-bottom: 20px;
+ }
+ .box6 {
+    background-color: gray;
+    width: 100px;
+    border: 2px solid black;
+    padding: 24px;
+    margin-bottom: 20px;
+ }
+ .box7 {
+     background-color: black;
+     width: 100px;
+     padding: 24px;
+     margin-bottom: 25px;
+     position: sticky;
+     left: 600px;
+     color: white;
+     bottom: 600px;
+ }
+ .box8 {
+     background-color: gray;
+     width: 100px;
+     border:2px  solid;
+     position: absolute;
+     margin-bottom: 25px;
+     right: 0px;
+     top: 5px;
+     padding: 24px;
+ }
+   .box9 {
+       display: flex;
+       justify-content: center;
+       align-items: center ;
+       border: 2px solid;
+       background-color: white;
+       width: 500px;
+       height: 400px;
+   }
+   .jj {
+    
+    background: red ;
+    clip-path: circle(50%);
+    height: 200px;
+    width: 200px;
+   }
+   .box10 {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    background: rgb(249,255,0);
+    background: linear-gradient(45deg, rgba(249,255,0,1) 0%, rgba(255,184,0,1) 25%, rgba(255,0,164,1) 50%, rgba(255,0,172,1) 75%, rgba(235,0,0,1) 100%);
+    width: 400px;
+    height: 400px;
+    border-radius: 25%;
+   }
+   .box11 {
+       width: 270px;
+       height: 270px;
+     border: 30px solid white;
+       border-radius: 25%;
+   }
+   .box12 {
+       float: right;
+       margin: 6px;
+       clip-path: circle(50%);
+       width: 4em;
+       height: 4em;
+      background-color: white;
+       
+   }
+   
